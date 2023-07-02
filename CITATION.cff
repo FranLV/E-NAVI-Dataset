@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: E-NAVI Dataset
+message: >-
+  Si utilizas este conjunto de datos, cítalo como sigue por
+  favor.
+type: dataset
+authors:
+  - given-names: Francisco
+    family-names: Lobón Villanueva
+date-released: '2023-07-02'
