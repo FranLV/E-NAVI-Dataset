@@ -61,9 +61,9 @@ print(dataset)
 ## Pelota pequeña estática
 En esta secuencia la cámara permanece estática y hay una pelota pequeña que pasa de derecha a izquierda y viceversa. La secuencia tiene una duración de 6.2 segundos.
 <div align="center">
-  <img width="30%" src="img/pelota_chica_estatica/event.gif">
-  <img width="30%" src="img/pelota_chica_estatica/flow.gif">
-  <img width="30%" src="img/pelota_chica_estatica/segmentation.gif">
+  <img width="30%" src="img/pelota_pequeña_estatica/event.gif">
+  <img width="30%" src="img/pelota_pequeña_estatica/flow.gif">
+  <img width="30%" src="img/pelota_pequeña_estatica/segmentation.gif">
 </div>
 
 ## Pelota grande estática
@@ -77,41 +77,41 @@ En esta secuencia la cámara permanece estática y hay una pelota grande que pas
 ## Pelota pequeña grande estática
 En esta secuencia la cámara permanece estática y hay una pelota grande que pasa de derecha a izquierda y viceversa. La secuencia tiene una duración de 7.2 segundos.
 <div align="center">
-  <img width="30%" src="img/pelota_chica_grande_estatica/event.gif">
-  <img width="30%" src="img/pelota_chica_grande_estatica/flow.gif">
-  <img width="30%" src="img/pelota_chica_grande_estatica/segmentation.gif">
+  <img width="30%" src="img/pelota_pequeña_grande_estatica/event.gif">
+  <img width="30%" src="img/pelota_pequeña_grande_estatica/flow.gif">
+  <img width="30%" src="img/pelota_pequeña_grande_estatica/segmentation.gif">
 </div>
 
 ## Pelota pequeña robot movimiento
 En esta secuencia la cámara va hacia delante mientras una pelota pequeña cruza en diagonal de derecha a izquierda. La secuencia tiene una duración de 8.2 segundos.
 <div align="center">
-  <img width="30%" src="img/pelota_chica_robot_movimiento/event.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento/flow.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento/segmentation.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento/event.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento/flow.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento/segmentation.gif">
 </div>
 
 ## Pelota pequeña robot movimiento 2
 En esta secuencia la cámara va hacia delante, aunque hay un momento de la secuencia en que la camara hace una rotación hacia la izquierda y derecha, mientras una pelota pequeña cruza por el lado izquierdo. La secuencia tiene una duración de 8 segundos.
 <div align="center">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_2/event.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_2/flow.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_2/segmentation.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_2/event.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_2/flow.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_2/segmentation.gif">
 </div>
 
 ## Pelota pequeña robot movimiento horizontal
 En esta secuencia la cámara va hacia delante mientras una pelota pequeña cruza de derecha a izquierda. La secuencia tiene una duración de 5.8 segundos.
 <div align="center">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_horizontal/event.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_horizontal/flow.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_horizontal/segmentation.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_horizontal/event.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_horizontal/flow.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_horizontal/segmentation.gif">
 </div>
 
-## Pelota chica robot movimiento lento
-En esta secuencia la cámara va hacia delante mientras una pelota chica pasa lentamente por la izquierda haciendo una curva hacia la izquierda. La secuencia tiene una duración de 7 segundos.
+## Pelota pequeña robot movimiento lento
+En esta secuencia la cámara va hacia delante mientras una pelota pequeña pasa lentamente por la izquierda haciendo una curva hacia la izquierda. La secuencia tiene una duración de 7 segundos.
 <div align="center">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_lento/event.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_lento/flow.gif">
-  <img width="30%" src="img/pelota_chica_robot_movimiento_lento/segmentation.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_lento/event.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_lento/flow.gif">
+  <img width="30%" src="img/pelota_pequeña_robot_movimiento_lento/segmentation.gif">
 </div>
 
 ## Pelota grande robot movimiento
