@@ -18,8 +18,8 @@ Si se va a utilizar este conjunto de datos por favor citadlo:
 ```
 # Sobre el conjunto de datos
 
-La grabación se ha hecho mediante una cámara Prophesee Gen 3 de 640x480 píxeles. Este conjunto de datos contiene diversas secuencias, todas las secuencias son en interiores con luz natural y se ha utilizado como IMO una pelota chica, otra pelota grande, y una plataforma terrestre (robot Zumo). Las secuencias se distribuyen de la siguiente manera:
-- 3 secuencias con la cámara estática a modo de prueba, en una de ellas hay dos pelotas (la grande y la chica) que se mueven en direcciones contrarias.
+La grabación se ha hecho mediante una cámara Prophesee Gen 3 de 640x480 píxeles. Este conjunto de datos contiene diversas secuencias, todas las secuencias son en interiores con luz natural y se ha utilizado como IMO una pelota pequeña, otra pelota grande, y una plataforma terrestre (robot Zumo). Las secuencias se distribuyen de la siguiente manera:
+- 3 secuencias con la cámara estática a modo de prueba, en una de ellas hay dos pelotas (la grande y la pequeña) que se mueven en direcciones contrarias.
 - 6 secuencias navegando desde una plataforma terrestre con las pelotas tanto en movimiento lento como rápido en diferentes ángulos.
 - 1 secuencia navegando desde la plataforma terrestre donde aparece otra plataforma terrestre como IMO (robot Zumo).
 
@@ -58,8 +58,8 @@ print(dataset)
 
 # Secuencias
 
-## Pelota chica estática
-En esta secuencia la cámara permanece estática y hay una pelota chica que pasa de derecha a izquierda y viceversa. La secuencia tiene una duración de 6.2 segundos.
+## Pelota pequeña estática
+En esta secuencia la cámara permanece estática y hay una pelota pequeña que pasa de derecha a izquierda y viceversa. La secuencia tiene una duración de 6.2 segundos.
 <div align="center">
   <img width="30%" src="img/pelota_chica_estatica/event.gif">
   <img width="30%" src="img/pelota_chica_estatica/flow.gif">
@@ -74,7 +74,7 @@ En esta secuencia la cámara permanece estática y hay una pelota grande que pas
   <img width="30%" src="img/pelota_grande_estatica/segmentation.gif">
 </div>
 
-## Pelota chica grande estática
+## Pelota pequeña grande estática
 En esta secuencia la cámara permanece estática y hay una pelota grande que pasa de derecha a izquierda y viceversa. La secuencia tiene una duración de 7.2 segundos.
 <div align="center">
   <img width="30%" src="img/pelota_chica_grande_estatica/event.gif">
@@ -82,24 +82,24 @@ En esta secuencia la cámara permanece estática y hay una pelota grande que pas
   <img width="30%" src="img/pelota_chica_grande_estatica/segmentation.gif">
 </div>
 
-## Pelota chica robot movimiento
-En esta secuencia la cámara va hacia delante mientras una pelota chica cruza en diagonal de derecha a izquierda. La secuencia tiene una duración de 8.2 segundos.
+## Pelota pequeña robot movimiento
+En esta secuencia la cámara va hacia delante mientras una pelota pequeña cruza en diagonal de derecha a izquierda. La secuencia tiene una duración de 8.2 segundos.
 <div align="center">
   <img width="30%" src="img/pelota_chica_robot_movimiento/event.gif">
   <img width="30%" src="img/pelota_chica_robot_movimiento/flow.gif">
   <img width="30%" src="img/pelota_chica_robot_movimiento/segmentation.gif">
 </div>
 
-## Pelota chica robot movimiento 2
-En esta secuencia la cámara va hacia delante, aunque hay un momento de la secuencia en que la camara hace una rotación hacia la izquierda y derecha, mientras una pelota chica cruza por el lado izquierdo. La secuencia tiene una duración de 8 segundos.
+## Pelota pequeña robot movimiento 2
+En esta secuencia la cámara va hacia delante, aunque hay un momento de la secuencia en que la camara hace una rotación hacia la izquierda y derecha, mientras una pelota pequeña cruza por el lado izquierdo. La secuencia tiene una duración de 8 segundos.
 <div align="center">
   <img width="30%" src="img/pelota_chica_robot_movimiento_2/event.gif">
   <img width="30%" src="img/pelota_chica_robot_movimiento_2/flow.gif">
   <img width="30%" src="img/pelota_chica_robot_movimiento_2/segmentation.gif">
 </div>
 
-## Pelota chica robot movimiento horizontal
-En esta secuencia la cámara va hacia delante mientras una pelota chica cruza de derecha a izquierda. La secuencia tiene una duración de 5.8 segundos.
+## Pelota pequeña robot movimiento horizontal
+En esta secuencia la cámara va hacia delante mientras una pelota pequeña cruza de derecha a izquierda. La secuencia tiene una duración de 5.8 segundos.
 <div align="center">
   <img width="30%" src="img/pelota_chica_robot_movimiento_horizontal/event.gif">
   <img width="30%" src="img/pelota_chica_robot_movimiento_horizontal/flow.gif">
